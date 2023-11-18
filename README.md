@@ -28,7 +28,7 @@ The dataset used in this project is [Bench mark Hate Speech Dataset](https://hug
 The raw textual data undergoes preprocessing steps to clean and prepare the text for model training. This includes tokenization, removing stop words, and normalization using NLTK library
 
 <div align="center">
-<img src="preprocessing.png" alt="Preprocessing flow" width="50%"/><br/>
+<img src="preprocessing.png" alt="Preprocessing flow" width="30%"/><br/>
 <sup>Preprocessing flow</sup>
 </div>
 
