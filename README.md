@@ -32,6 +32,7 @@ The raw textual data undergoes preprocessing steps to clean and prepare the text
 <sup>Preprocessing flow</sup>
 </div>
 
+Here is some dataset samples before and after preprocessing:
 <div align="center">
 <img src="preprocessing-result.png" alt="Preprocessing flow" width="80%"/><br/>
 <sup>Preprocessing Result</sup>
